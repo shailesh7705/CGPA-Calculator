@@ -80,7 +80,7 @@ CGPA-Calculator/
 ## 🌐 Deployment
 
 This is a static site — no build step required. Deploy to any static host:
-
+https://cgpa-calculator-pi-eight.vercel.app/
 ### GitHub Pages
 1. Go to your repo **Settings → Pages**
 2. Set source to **Deploy from a branch**
